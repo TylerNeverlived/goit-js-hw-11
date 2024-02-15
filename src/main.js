@@ -57,7 +57,7 @@ function clearGallery() {
 
 function getImg(query) {
   const BASE_URL = 'https://pixabay.com/api/';
-  const API_KEY = '42295751-6e09ed05d50a99192d667c3e9';
+  const API_KEY = '42378231-2cbfe344b77ee99383ee8e657';
 
   const params = new URLSearchParams({
     key: API_KEY,
